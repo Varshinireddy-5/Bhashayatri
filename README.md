@@ -99,6 +99,6 @@ We express our gratitude to our mentors and the IIIT Hyderabad Megathon organize
 
 ## 📄 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+This project is licensed under the **MIT License**
 
   
