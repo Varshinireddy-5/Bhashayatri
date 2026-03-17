@@ -1,8 +1,8 @@
 # 🗺️ BhashaYatri
 
-> **Your Multilingual Tourism Companion**
+> **Your Multilingual AI-Powered Tourism Companion**
 
-A comprehensive multilingual tourism application integrating Bhashini's language APIs for translation, speech recognition, text-to-speech, and OCR capabilities. Experience India without language barriers!
+BhashaYatri is a multilingual AI-driven travel platform designed to enhance tourism experiences across India. It bridges the language gap for travelers, offering real-time communication, translation, and accessibility across multiple Indian languages using the full Bhashini API suite and Anuvaad Sandbox.
 
 🔗 **Live Demo:** [https://bhashayathra.netlify.app/](https://bhashayathra.netlify.app/)
 
@@ -19,19 +19,86 @@ A comprehensive multilingual tourism application integrating Bhashini's language
 **Email**: `demo@bhashayatri.com`  
 **Password**: `demo123`
 
-*Pre-filled on the login page - just click "Login"!*  
+*Credentials are pre-filled on the login page — just click "Login"!*
 
-### **Try It Now**
-1. Open the app  
-2. Click "Login" (credentials already filled)  
-3. Explore 17 modules with full functionality!
+### **How to Use**
+1. Open the app in a browser or as a PWA.  
+2. Click "Login" to access all features.  
+3. Explore real-time translation, AI avatars, voice interactions, and 17 functional modules.  
 
 ---
 
 ## ✨ Key Features
 
-🌍 **Location Services** - Real-time GPS tracking & nearby recommendations  
-🗣️ **Live Speech Translator** - 10+ Indian languages with audio  
-📝 **Text Translator** - Instant translation with TTS playback  
-...  
-<!-- rest remains unchanged -->
+- 🌍 **Location Services** – GPS-based recommendations and nearby tourist attractions.  
+- 🗣️ **Live Speech Translator** – Instant speech translation across 10+ Indian languages.  
+- 📝 **Text Translator** – Translate text with TTS audio playback.  
+- 🖼️ **OCR Module** – Extract text from images and scanned documents.  
+- 🤖 **AI Voice-Call Bot** – Converse with a virtual assistant for instant translations and guidance.  
+- 🌐 **Website & Document Translation** – Automatic translation of web content and documents.  
+- 🧑‍🎨 **Culturally Adaptive AI Avatars** – Personalized avatars for regional engagement.  
+- ⚡ **Low Latency** – Speech-to-speech translation under 10 seconds for smooth conversations.  
+- 🎨 **User-Friendly Interface** – Multilingual, intuitive, and adaptive for travelers.  
+
+---
+
+## 🏗️ Architecture
+
+BhashaYatri integrates cutting-edge AI and language technologies:
+
+1. **Bhashini APIs**  
+   - ASR (Automatic Speech Recognition)  
+   - NMT (Neural Machine Translation)  
+   - TTS (Text-to-Speech)  
+   - OCR (Optical Character Recognition)  
+
+2. **Anuvaad Sandbox** – Real-time multilingual translation support.  
+
+3. **Frontend** – React.js with PWA support, responsive UI, AI avatars, and voice interactions.  
+
+4. **Backend** – Node.js/Express API server handling API integration, session management, and data flow.  
+
+5. **Database** – Stores user preferences, language history, and translation logs (MongoDB / Firebase recommended).  
+
+---
+
+## 📚 Supported Modules
+
+BhashaYatri currently includes the following core modules:
+
+- **Live Speech Translator** – real-time speech-to-speech translation
+- **Text Translator with TTS** – instant text translation with audio playback
+- **AI Voice-Call Bot** – virtual assistant for conversational translations
+- **OCR for Images & Documents** – extract text from images or scanned documents
+- **Culturally Adaptive AI Avatars** – region-specific AI avatars for interactive guidance
+- **Website & Document Translation** – automatic translation of webpages and documents
+
+---
+
+## 💡 Technologies Used
+
+- **Frontend:** React.js, Redux, TailwindCSS, PWA support  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB / Firebase  
+- **AI & NLP:** Bhashini API (ASR, NMT, TTS, OCR), Anuvaad Sandbox  
+- **Others:** Socket.io for real-time communication, Web Speech API  
+
+---
+
+## 🏆 Recognition
+
+BhashaYatri was **shortlisted among the Top 10 teams out of 200+ teams** at the **IIIT Hyderabad Megathon 2025** under the **Bhashini Problem Statement**. The project envisions a platform that makes Indian tourism accessible and inclusive, aligned with **Digital India** and **AI for Bharat** initiatives.  
+
+---
+
+## 🙏 Acknowledgments
+
+We express our gratitude to our mentors and the IIIT Hyderabad Megathon organizers for their guidance and support. Special thanks to the Bhashini and Anuvaad teams for providing APIs and sandbox environments that made this project possible.  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
+  
