@@ -2,7 +2,7 @@
 
 > **Your Multilingual AI-Powered Tourism Companion**
 
-BhashaYatri is a multilingual AI-driven travel platform designed to enhance tourism experiences across India. It bridges the language gap for travelers, offering real-time communication, translation, and accessibility across multiple Indian languages using the full Bhashini API suite and Anuvaad Sandbox.
+BhashaYatri is a multilingual AI-driven travel platform designed to enhance tourism experiences across India. It bridges the language gap for travelers, offering real-time communication, translation, and accessibility across multiple Indian languages using the full Bhashini API suite and Anuvaad Sandbox..
 
 🔗 **Live Demo:** [https://bhashayathra.netlify.app/](https://bhashayathra.netlify.app/)
 
